@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion" : "2010-09-09",
+  "AWSTemplateFormatVersion" : "02-28-2018",
 
   "Description" : "AWS CloudFormation Template for Drupal Single Instance.",
 
